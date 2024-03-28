@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **backend**
 
-- 👨‍💻 All of my projects are available at [https://ponragavan.github.io/CodSoft/Portfolio/](https://ponragavan.github.io/CodSoft/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://ponragavan.github.io/React-Projects/](https://ponragavan.github.io/React-Projects/)
 
 - 💬 Ask me about **anything!**
 
