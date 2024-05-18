@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ponragavan M</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Web Developer from India</h3>
 <img src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ponragavan&label=Profile%20views&color=0e75b6&style=flat" alt="ponragavan" /> </p>
 
+- 🎉 Using React and Tailwind CSS, I have finished my frontend development.
 
-- 🌱 I’m currently learning **React js**
+- 👨‍💻 All of react my projects are available at [**here**](https://ponragavan.github.io/React-Projects/)
+  
+- 🌱 I’m currently learning **Backend Development**
 
-- 👯 I’m looking to collaborate on **frontend**
+- 👯 I’m looking to collaborate on **Frontend**
 
 - 🤝 I’m looking for help with **backend**
-
-- 👨‍💻 All of my projects are available at [**here**](https://ponragavan.github.io/React-Projects/)
 
 - 💬 Ask me about **anything!**
 
